@@ -1,4 +1,5 @@
 # Previsão do Tempo
+![image](https://github.com/user-attachments/assets/f82d1711-09b0-477f-9d6e-ec5edd10e5e7)
 
 Este projeto permite que o usuário consulte as condições climáticas de uma cidade usando a API OpenWeatherMap. O usuário pode digitar o nome de uma cidade e visualizar a temperatura, umidade e uma descrição do clima atual. A interface é simples e intuitiva, projetada para ser responsiva e oferecer uma experiência fluída ao usuário.
 
